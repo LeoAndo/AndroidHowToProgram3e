@@ -1,3 +1,7 @@
+# メモ
+Android 6 for Programmers: An App-Driven Approach (Deitel Developer)のサンプルコード<br>
+https://www.amazon.com/Android-Programmers-App-Driven-Approach-Developer/dp/0134289366
+
 # Android How to Program, 3e
 Code examples for Android How to Program, 3/e
 
